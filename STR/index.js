@@ -92,7 +92,7 @@ console.log(num5);
 var num6 = Math.round(4.7); 
 console.log(num6);
 
-varnum7 = Math.pow(8,2)
+var num7 = Math.pow(8,2)
 console.log(num7);
 
 var num8 = Math.sqrt(64);
